@@ -11,4 +11,5 @@ public class User {
     private String address;
     private String gender;
     private String frontend;
+    private String statics;
 }
