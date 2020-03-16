@@ -10,4 +10,5 @@ public class User {
     private Integer age;
     private String address;
     private String gender;
+    private String frontend;
 }
