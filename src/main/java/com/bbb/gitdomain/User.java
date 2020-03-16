@@ -12,4 +12,5 @@ public class User {
     private String gender;
     private String frontend;
     private String statics;
+    private String localandorigin;
 }
