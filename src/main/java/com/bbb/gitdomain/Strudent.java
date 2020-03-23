@@ -7,4 +7,5 @@ package com.bbb.gitdomain;
 public class Strudent {
     public String name;
 	public String sourcetree;
+	public String again;
 }
